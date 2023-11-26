@@ -13,11 +13,10 @@ This a transaction journey for fintech's API , here i have chained multiple API'
 
 lastly report is generated with NEWMAN.
 
+![1git](https://github.com/v3ndi/transaction-API-Journey-for-Fintech/assets/83697980/ecf64907-995c-4791-8ea9-8c47d4539b38)
+![2git](https://github.com/v3ndi/transaction-API-Journey-for-Fintech/assets/83697980/9aa8875d-0203-4d8c-a3a5-ee230bd2a450)
 
-![screencapture-file-F-automation-resources-PM-NM-Project-Reports-report-html-2023-11-26-14_22_48](https://github.com/v3ndi/transaction-API-Journey-for-Fintech/assets/83697980/85dfe307-dfba-4886-aa05-5c801131d0b4)
 
-
-![screencapture-file-F-automation-resources-PM-NM-Project-Reports-report-html-2023-11-26-14_20_17](https://github.com/v3ndi/transaction-API-Journey-for-Fintech/assets/83697980/569e2dbc-4105-456f-a648-d82322dd4241)
 
 ## How To Run This Project :
 - Clone this project: ```https://github.com/v3ndi/transaction-API-Journey-for-Fintech.git```
