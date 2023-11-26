@@ -28,7 +28,7 @@ lastly report is generated with NEWMAN.
 https://documenter.getpostman.com/view/31247775/2s9YeD9DtM
 
 ## Test cases :
-
+https://docs.google.com/spreadsheets/d/1ELfxskvfbCzgIV1PhKwHCu39P--ibLwCUdKaSQUN1r4/edit#gid=0
 
 ## Bug and Improvement suggestion :
 
