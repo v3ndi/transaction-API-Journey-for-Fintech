@@ -13,8 +13,10 @@ This a transaction journey for fintech's API , here i have chained multiple API'
 
 lastly report is generated with NEWMAN.
 
-![1git](https://github.com/v3ndi/transaction-API-Journey-for-Fintech/assets/83697980/ecf64907-995c-4791-8ea9-8c47d4539b38)
-![2git](https://github.com/v3ndi/transaction-API-Journey-for-Fintech/assets/83697980/9aa8875d-0203-4d8c-a3a5-ee230bd2a450)
+![git1](https://github.com/v3ndi/transaction-API-Journey-for-Fintech/assets/83697980/69d943b1-77dc-4217-b099-33e95d35718b)
+
+
+![git2](https://github.com/v3ndi/transaction-API-Journey-for-Fintech/assets/83697980/59a5f262-41fd-48b5-a3f5-f060f24c8757)
 
 
 
@@ -30,4 +32,4 @@ https://documenter.getpostman.com/view/31247775/2s9YeD9DtM
 https://docs.google.com/spreadsheets/d/1ELfxskvfbCzgIV1PhKwHCu39P--ibLwCUdKaSQUN1r4/edit#gid=0
 
 ## Bug and Improvement suggestion :
-
+https://docs.google.com/spreadsheets/d/18GJSpKoiUjmvnceFD8O7bgpeYza02sLcF-13pw8quXc/edit#gid=0
