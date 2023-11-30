@@ -13,10 +13,12 @@ This a transaction journey for fintech's API , here i have chained multiple API'
 
 lastly report is generated with NEWMAN.
 
-![git1](https://github.com/v3ndi/transaction-API-Journey-for-Fintech/assets/83697980/69d943b1-77dc-4217-b099-33e95d35718b)
+
+![git1](https://github.com/v3ndi/transaction-API-Journey-for-Fintech/assets/83697980/03d26f47-af4d-43be-bd78-3a73d58c9be9)
+
+![git2](https://github.com/v3ndi/transaction-API-Journey-for-Fintech/assets/83697980/258e0f15-16ab-42d0-b6b4-a9c564387202)
 
 
-![git2](https://github.com/v3ndi/transaction-API-Journey-for-Fintech/assets/83697980/59a5f262-41fd-48b5-a3f5-f060f24c8757)
 
 
 
